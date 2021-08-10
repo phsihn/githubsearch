@@ -1,4 +1,5 @@
-# Github Account Search - https://githubfinder051195.netlify.com/
+# Github Account Search -
+https://githubfinder051195.netlify.com/
 
 A web application that searches Github for user accounts. Searches users using GitHub API and displays their public repo and github profile information.
 Created using - React, Bootstrap, Github API
